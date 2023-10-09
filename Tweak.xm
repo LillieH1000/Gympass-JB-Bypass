@@ -9,18 +9,18 @@
     return NULL;
 }
 - (BOOL)checkPaths {
-    return 0;
+    return NO;
 }
 - (BOOL)checkSchemes {
-    return 0;
+    return NO;
 }
 - (BOOL)canViolateSandbox {
-    return 0;
+    return NO;
 }
 - (BOOL)isDebugged {
-    return 0;
+    return NO;
 }
 - (BOOL)isJailBroken {
-    return 0;
+    return NO;
 }
 %end
