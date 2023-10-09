@@ -6,6 +6,4 @@ Description: Bypass JB Detection In Gympass
 Maintainer: Lillie
 Author: Lillie
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Depiction: https://repo.lillieweeb001.xyz/depictions/gympassjbbypass.html
-SileoDepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.gympassjbbypass/depiction.json
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
